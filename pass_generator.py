@@ -1,5 +1,6 @@
 #You have Python3 install to use this script 
 #Executing command 
+#s=list[2,4,6].split
 #$python3 pass_generator.py
 string = input("Enter The Words You Want separated by commos :> ")
 a = string.split(",")
